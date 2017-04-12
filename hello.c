@@ -3,7 +3,7 @@ int main()
 {
   int a;
 printf("welcome to git programming");
+printf("DONE....!!");
 return 0;
-printf("enter a number:");
-scanf("%d,&a")
+
 }
